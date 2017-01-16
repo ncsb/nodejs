@@ -47,7 +47,7 @@ request.session.username = '';
 
 依赖模块
 ```
-npm install cookie-parser
+npm install cookie-parser  --save
 
 ```
 
